@@ -2,7 +2,7 @@
 <h4>Я занимаюсь геймдизайном и искренне убежден, что каждая игра должна привносить какую-то новую механику, которой не было до этого ни в одном тайтле. Только так проект может быть поистинне интересным и уникальным в своем роде.</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ae,blender,c,cs,bootstrap,discord,flask,godot,html,java,notion,ps,py,unity,unreal,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,ae,blender,discord,flask,html,java,notion,ps,py,unity,unreal,vscode" />
   </a>
 </p>
 
