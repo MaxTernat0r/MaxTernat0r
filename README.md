@@ -1,6 +1,11 @@
-<h1 align="center">Всем привет, мое имя <a href="https://discord.gg/jgEzuVqw93" target="_blank">MaxTer</a> 🖐
+<h1>Всем привет, я <a href="https://discord.gg/jgEzuVqw93" target="_blank">MaxTer</a>
+<h4>Я занимаюсь геймдизайном и искренне убежден, что каждая игра должна привносить какую-то новую механику, которой не было до этого ни в одном тайтле. Только так проект может быть поистинне интересным и уникальным в своем роде.</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ae,blender,c,cs,bootstrap,discord,flask,godot,html,java,notion,ps,py,unity,unreal,vscode" />
+  </a>
+</p>
 
-<h4></h4>
 <!--
 **MaxTernat0r/MaxTernat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
