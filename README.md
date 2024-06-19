@@ -1,5 +1,6 @@
-## Hi there 👋
+<h1 align="center">Всем привет, мое имя <a href="https://discord.gg/jgEzuVqw93" target="_blank">MaxTer</a> 🖐
 
+<h4></h4>
 <!--
 **MaxTernat0r/MaxTernat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
