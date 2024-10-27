@@ -46,4 +46,5 @@
   <img src="https://streak-stats.demolab.com?user=MaxTernat0r&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=MaxTernat0r&theme=github_dark" />
 ###
