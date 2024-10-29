@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋 My name is Maxim</h1>
+Hey 👋 My name is Maxim
 
 ###
 
-<p align="center">I am a beginner developer from Russia</p>
+I am a beginner developer from Russia
 
 ###
 
-<h2 align="center">About me</h2>
+About me
 
 ###
 
